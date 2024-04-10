@@ -20,4 +20,4 @@ jobs:
           distribution: 'adopt'  # Specify the distribution
 
       - name: Build Java Code
-        run: javac demo.java
+        run: javac Demo.java
